@@ -7,3 +7,8 @@ Project on the Lagragian NN for the class of MLPAP.
 - Optimization of the different hyper parameters.
 - Creation of visuals and animation.
 - Checking energy conservation.
+
+Studied systems :
+- Double pendulum (including chaotic trajectories).
+- 2 and 3 coupled pendulums with a torsion rod.
+- Adaptibility to any system with a $(q, \dot q)$ physical description.
