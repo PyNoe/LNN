@@ -13,4 +13,4 @@ Studied systems :
 - 2 and 3 coupled pendulums with a torsion rod.
 - Adaptibility to any system with a $(q, \dot q)$ physical description.
 
-[![Regardez la vidéo](https://raw.githubusercontent.com/yourusername/yourrepository/main/assets/thumbnail.jpg)](https://raw.githubusercontent.com/PyNoe/LNN/blob/main/Visuals/pendules_couples_tige_LNN_sub.mp4)
+![](https://github.com/PyNoe/LNN/blob/main/Visuals/double_pendulum_sub2.gif)
