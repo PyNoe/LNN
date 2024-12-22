@@ -16,3 +16,7 @@ Studied systems :
 Concrete example with the LNN for the double pendulum : 
 
 ![](https://github.com/PyNoe/LNN/blob/main/Visuals/double_pendulum_sub2.gif)
+
+Accuracy example with two coupled pendulums with a torsion rod :
+
+![alt text](https://github.com/PyNoe/LNN/blob/main/Visuals/PendulesCouplés_torsion.jpg)
